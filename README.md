@@ -76,19 +76,51 @@ can offer as premium additions:
 - **Cross-border diaspora campaigns** — reach Albanian audiences 
   in the DACH region and globally at Western European CPM 
   standards
+- **Open Marketplace access** — extend any client campaign into 
+  premium global inventory beyond the Albanian-language network 
+  (see below)
 
 ---
 
 ## The Inventory
 
-- **20,000+ domains** — open marketplace across Albanian-speaking 
-  digital media
-- **Premium publisher network** — including Telegrafi, BalkanWeb, 
-  Koha.net, Dukagjini, MeteoBallkan, and others
+### Core Albanian Publisher Network
+- [telegrafi.com](http://telegrafi.com/)
+- [koha.net](http://koha.net/)
+- [klankosova.tv](http://klankosova.tv/)
+- [gazetablic.com](https://gazetablic.com/)
+- [indeksonline.net](http://indeksonline.net/)
+- [gazetaexpress.com](http://gazetaexpress.com/)
+- [balkanweb.com](http://balkanweb.com/)
+- [meteoballkan.com](http://meteoballkan.com/)
+- [botasot.info](http://botasot.info/)
+- [dukagjini.com](http://dukagjini.com/)
+- [lajmi.net](http://lajmi.net/)
+- [syri.net](http://syri.net/)
+- [panorama.al](http://panorama.al/)
+- And others
+
 - **1+ billion annual page views** — consolidated network scale 
   that unlocks Tier 1, Tier 2, and Tier 3 global demand
 - **Brand-safe** — curated inventory, no unsafe placements
 - **~68% average viewability** — above open-web standards
+
+### Open Marketplace — Premium Media Worldwide
+
+On top of the core network, your clients get access to over 
+20,000 premium domains worldwide through the Open Marketplace — 
+covering news, finance, sports, rewarded apps, lifestyle, and 
+many other categories. Named partners include Rakuten Advertising, 
+LiveScore, 365Scores, Viber Advertising, and premium regional media 
+like 20 Minuten in the DACH region.
+
+This is not a fixed list. Whether a specific domain, market, or 
+audience is already part of our named partners or not, we analyze 
+available inventory and build a tailored buy — meaning your clients 
+effectively have access to premium media anywhere in the world, 
+not just the domains listed here. CPM varies by domain and 
+inventory selected, with full targeting by country, city, or 
+location and transparent reporting throughout.
 
 ---
 
@@ -126,6 +158,8 @@ into this market for international buyers.
 
 ## Get Started
 
+**Book a call:** 
+[mandeta.com/book-a-call](https://www.mandeta.com/book-a-call)  
 **Email:** [hey@mandeta.com](mailto:hey@mandeta.com)  
 **WhatsApp:** [Chat with us](https://wa.link/6ri2jl)  
 **Website:** [mandeta.com](https://www.mandeta.com)
